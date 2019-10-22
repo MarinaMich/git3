@@ -1,8 +1,14 @@
 body {
-	background: gray;
+	background: #d0cccc;
+	margin: 0 auto;
+	width: 900px;
+	text-align: center;
 }
+
+
 
 h1 {
 	color: red;
-	font-size: 40px;
+
 }
+
